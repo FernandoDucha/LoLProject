@@ -3,3 +3,5 @@
 *.json
 *.gml
 *.txt
+__pycache__
+.idea
